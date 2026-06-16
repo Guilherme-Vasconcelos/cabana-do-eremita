@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Seja bem-vindo à cabana do eremita. Leia um pouco sobre meu objetivo com esse blog [na página de apresentação]({% link about.md %}), ou leia um dos posts abaixo.
