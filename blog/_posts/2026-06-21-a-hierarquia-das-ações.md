@@ -1,0 +1,8 @@
+---
+layout: post
+title: "A hierarquia das ações"
+---
+
+Toda ação se relaciona com outra, podendo suportá-la ou prejudicá-la. E, no entanto, embora uma ação possa se tornar mais fácil por conta de outra ação feita no passado, a finalidade última nunca é a ação em si---pois a ação é, por definição, um meio para se atingir fins, e essa finalidade última à qual toda ação se submete é aquilo que entendemos como uma virtude. Uma virtude é, portanto, nunca neutra e nunca "meramente disciplinar", pois a dimensão disciplinar cabe àquilo que suporta a virtude que são as ações.
+
+Esse entendimento se torna particularmente importante quando vemos que as ações, ao se desvencilharem das virtudes, podem se virar para os seus opostos---os vícios. Tomemos como exemplo o autocontrole: ele é, em via de regra, tido como uma virtude. E, de fato, muitas coisas boas podem vir da pessoa que se autocontrole: pois o autocontrole leva à liberdade, e a liberdade nos permite fazer grandes coisas de forma voluntária. Mas nem a liberdade e nem o autocontrole são virtudes, pois têm caráter neutro, disciplinar e suportivo. Assim, é incompleto afirmar que o autocontrole é desejado; ele se torna desejado à medida que se vira para coisas boas, mas também é verdade que uma pessoa pode usar seu autocontrole para o mal: ao conquistar sua liberdade, a pessoa pode em seguida decidir voluntariamente se submeter a coisas más.

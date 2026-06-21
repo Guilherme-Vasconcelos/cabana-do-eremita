@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Do valor da presença e disciplina mental"
-lang: pt-BR
 ---
 
 Existe um sentido no qual o exercício de pensar é uma parte intrínseca do ser humano. Não porque não poderíamos viver em um estado de mais pura presença tal como fazem os animais, mas porque nossa natureza é mais apropriada para uma abordagem diferente. Pois cada ser vivo deve fazer aquilo que, dentro das conformidades de sua capacidade, é aquilo que ele melhor consegue fazer---e isso é o significado de viver de acordo com sua natureza.
