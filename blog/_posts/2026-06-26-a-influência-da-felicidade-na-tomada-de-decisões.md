@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Origem da felicidade"
+title: "A influência da felicidade na tomada de decisões"
 ---
 
 Quantas vezes fazemos aquilo que não desejamos pois temos consciência que, no fim, trará felicidade? Nesse sentido, às vezes nossas ações podem ser como remédios: amargos no curto prazo, mas prazerosos no longo prazo, pois a doença não nos traz felicidade. Um exemplo comum é a atividade física, que é indesejada no curto prazo pois bate de frente com nossos maus hábitos tal como a preguiça e a vontade de evitar a dor.
