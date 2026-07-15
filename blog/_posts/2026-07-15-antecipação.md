@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Antecipação"
+---
+
+Antecipar mentalmente acontecimentos antes que eles aconteçam, em muitos casos, é uma tendência natural do ser humano, e de fato [nem sempre é negativo]({% link posts/2026-06-19-presença.md %}). No entanto, frequentemente é negativo, e nesse texto explorarei alguns dos motivos.
+
+Em primeiro lugar, a antecipação frequentemente gera uma espécie de exaustão. Pois toda atividade, quando exercida em excesso, causa essa exaustão, exceto se essa atividade por algum desígnio maior for a única vocação daquele ser humano. Mas o ser humano médio, como geralmente o somos, foi feito para o equilíbrio, e esse equilíbrio é atingido com uma variedade de atividades como a oração, o trabalho manual e os atos de caridade. Quando antecipamos uma atividade excessivamente, para nossa mente é como se a estivéssemos vivendo parcialmente, e assim, quando a atividade de fato acontecer, estaremos cansados e mais desfocados. De fato, é extremamente raro, por mais virtuosa que a atividade seja, que ela seja boa quando exercida em excesso: cito como exemplo a caridade---há alguma dimensão em que servir ao outro pode ser negativo? Sim: caso esqueçamos o motivo pelo qual o estamos fazendo e essa servidão se tornar um motivo de tormento.
+
+Em segundo lugar, porque ao anteciparmos outras atividades também deixamos de prestar atenção na atividade que de fato estamos fazendo no momento. E de fato sempre estamos fazendo algo: mesmo quando nosso foco é não fazer nada, isso também é fazer algo, e não prestar atenção nesse algo fará que o façamos de forma que não gere os frutos que deveria gerar. Sim, mesmo o ato de prestar atenção no nada gera frutos: eu considero isso uma espécie de "descanso contemplativo", no qual aprendemos a vislumbrar o mundo de uma forma que não víamos antes, e reconhecer novas oportunidades em que poderemos contribuir com os nossos serviços, pois tudo aquilo que há no mundo é verdade e portanto a verdade se revela na contemplação. Em contraposição, é possível pensar em coisas que não são verdade, e assim prestar atenção nelas não gerará frutos.
+
+Isso não significa, no entanto, que não haja nenhum espaço para o planejamento prévio. Mas esse planejamento deve ser focado em descobrir problemas reais e planejar como a atividade será feita, e não uma espécie de "daydreaming" sob esse pretexto. Nesse sentido, não é uma antecipação, mas parte intrínseca da atividade pois determinará como ela será feita.
