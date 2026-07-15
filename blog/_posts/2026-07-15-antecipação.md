@@ -3,7 +3,7 @@ layout: post
 title: "Antecipação"
 ---
 
-Antecipar mentalmente acontecimentos antes que eles aconteçam, em muitos casos, é uma tendência natural do ser humano, e de fato [nem sempre é negativo]({% link posts/2026-06-19-presença.md %}). No entanto, frequentemente é negativo, e nesse texto explorarei alguns dos motivos.
+Antecipar mentalmente acontecimentos antes que eles aconteçam, em muitos casos, é uma tendência natural do ser humano, e de fato [nem sempre é negativo]({% link _posts/2026-06-19-presença.md %}). No entanto, frequentemente é negativo, e nesse texto explorarei alguns dos motivos.
 
 Em primeiro lugar, a antecipação frequentemente gera uma espécie de exaustão. Pois toda atividade, quando exercida em excesso, causa essa exaustão, exceto se essa atividade por algum desígnio maior for a única vocação daquele ser humano. Mas o ser humano médio, como geralmente o somos, foi feito para o equilíbrio, e esse equilíbrio é atingido com uma variedade de atividades como a oração, o trabalho manual e os atos de caridade. Quando antecipamos uma atividade excessivamente, para nossa mente é como se a estivéssemos vivendo parcialmente, e assim, quando a atividade de fato acontecer, estaremos cansados e mais desfocados. De fato, é extremamente raro, por mais virtuosa que a atividade seja, que ela seja boa quando exercida em excesso: cito como exemplo a caridade---há alguma dimensão em que servir ao outro pode ser negativo? Sim: caso esqueçamos o motivo pelo qual o estamos fazendo e essa servidão se tornar um motivo de tormento.
 
