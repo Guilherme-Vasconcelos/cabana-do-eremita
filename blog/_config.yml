@@ -21,11 +21,16 @@
 title: Cabana do eremita
 email: guilhermev@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Um blog com reflexões sobre assuntos diversos.
+  Um blog com textos sobre assuntos diversos.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cabana-do-eremita.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Guilherme-Vasconcelos
 lang: pt-BR
+header_pages:
+  - essays.md
+  - stories.md
+  - about.md
+  - legal.md
 
 # Build settings
 theme: minima

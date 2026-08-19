@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sociabilidade"
+type: essay
 ---
 
 Por algum tempo, eu vivi em uma dicotomia em relação aos entretenimentos: em minha vida privada, eu conseguia me controlar e aproveitá-los sem que se tornassem um vício. No entanto, ao me relacionar extensivamente com outras pessoas, em prol da "socialização" eu voltava aos maus hábitos: permitia-me o excesso de comida, desregular o horário do meu sono, etc. E, para mim, parecia justificável, pois é fato que hábitos disciplinares não existem para que eu sirva a mim mesmo mas aos outros---logo, de que adianta se eu não abrir exceções aqui ou ali?

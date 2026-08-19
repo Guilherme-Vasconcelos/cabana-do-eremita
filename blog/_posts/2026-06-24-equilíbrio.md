@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Equilíbrio"
+type: essay
 ---
 
 Eu olho ao meu redor e vejo desprezo: uns desprezam o intelecto e invenções humanas, afirmando ser "contra a ordem natural"; outros desprezam a ordem natural, afirmando ser "contra o intelecto humano". Uns desprezam a vida simples, afirmando "com certeza há mais a se viver"; outros desprezam a vida complexa, afirmando "ser muito turbulenta". Uns desprezam os apegos, afirmando "causar sofrimento"; e outros desprezam o desapego, afirmando "o mundo material é o que há".
