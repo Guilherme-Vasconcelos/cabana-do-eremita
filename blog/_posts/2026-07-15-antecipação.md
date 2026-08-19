@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Antecipação"
+type: essay
 ---
 
 Antecipar mentalmente acontecimentos antes que eles aconteçam, em muitos casos, é uma tendência natural do ser humano, e de fato [nem sempre é negativo]({% link _posts/2026-06-19-presença.md %}). No entanto, frequentemente é negativo, e nesse texto explorarei alguns dos motivos.
