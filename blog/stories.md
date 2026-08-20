@@ -11,9 +11,5 @@ permalink: /stories/
     <h2>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
-
-    {% if post.excerpt %}
-      {{ post.excerpt }}
-    {% endif %}
   </article>
 {% endfor %}
