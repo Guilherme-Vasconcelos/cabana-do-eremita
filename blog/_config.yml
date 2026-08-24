@@ -31,6 +31,10 @@ header_pages:
   - short-stories.md
   - about.md
   - legal.md
+collections:
+  study-notes:
+    output: true
+    permalink: /study-notes/:path/
 
 # Build settings
 theme: minima
