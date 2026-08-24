@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contos
-permalink: /stories/
+permalink: /short-stories/
 ---
 
 {% assign stories = site.posts | where: "type", "story" %}

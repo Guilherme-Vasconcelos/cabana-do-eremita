@@ -10,4 +10,4 @@ Seja bem-vindo à cabana do eremita. Leia um pouco sobre meu objetivo com esse b
 
 [Ensaios](/essays/): aqui você encontra reflexões sobre diversos assuntos.
 
-[Contos](/stories/): aqui você encontra alguns textos mais literários e criativos.
+[Contos](/short-stories/): aqui você encontra alguns textos mais literários e criativos.
