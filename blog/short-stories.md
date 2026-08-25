@@ -4,7 +4,7 @@ title: Contos
 permalink: /short-stories/
 ---
 
-{% assign stories = site.posts | where: "type", "story" %}
+{% assign stories = site.posts | where: "type", "short-story" %}
 
 {% for post in stories %}
   <article>
