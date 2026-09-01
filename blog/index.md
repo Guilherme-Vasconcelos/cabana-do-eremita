@@ -6,8 +6,6 @@ layout: post
 title: "Cabana do eremita"
 ---
 
-Seja bem-vindo à cabana do eremita. Leia um pouco sobre meu objetivo com esse blog [na página de apresentação]({% link about.md %}), ou visite as páginas abaixo para ler os textos.
+[Ensaios](/essays/).
 
-[Ensaios](/essays/): aqui você encontra reflexões sobre diversos assuntos.
-
-[Contos](/short-stories/): aqui você encontra alguns textos mais literários e criativos.
+[Contos](/short-stories/).
