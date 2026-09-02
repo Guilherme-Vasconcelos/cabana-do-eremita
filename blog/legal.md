@@ -9,6 +9,6 @@ Os conteúdos originais criados por mim neste projeto (textos, imagens, etc.) es
 No entanto, este projeto utiliza ferramentas e conteúdos desenvolvidos por terceiros nos limites permitidos por suas licenças e pela Lei de Direitos Autorais brasileira (Lei 9.610/98, art. 46, III). A lista abaixo contém alguns casos de notável observação:
 - A geração do website é feita pelo Jekyll, licenciado sob a [licença MIT](https://github.com/jekyll/jekyll/blob/202df571314ba1d18e9fccd81d12aaad4a703c38/LICENSE).
 - O Jekyll utiliza o tema minima, licenciado sob a [licença MIT](https://github.com/jekyll/minima/blob/4de322363fca5927e6f4012cb94f6dad69ab5e6c/LICENSE.txt).
-- A geração do feed RSS é feita pelo jekyll-feed, licenciado sob a [licença MIT](https://github.com/jekyll/jekyll-feed/blob/43cc5d51e30b59ab8d8ba970e42c8c437e2b233f/LICENSE.txt)
+- A geração do feed RSS é feita pelo jekyll-feed, licenciado sob a [licença MIT](https://github.com/jekyll/jekyll-feed/blob/43cc5d51e30b59ab8d8ba970e42c8c437e2b233f/LICENSE.txt).
 
 Caso precise entrar em contato, envie um email para guilhermev@protonmail.com.
