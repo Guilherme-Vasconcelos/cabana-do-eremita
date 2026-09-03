@@ -48,6 +48,12 @@ title: "$title"
 type: "$type"
 lang: "pt-BR"
 ---
+
+Your text goes here.
+Example photo:
+
+![Photo]({{ "/assets/images/some-image.jpeg" | relative_url }})
+
 EOF
 
 echo "Created: $out_fpath"
