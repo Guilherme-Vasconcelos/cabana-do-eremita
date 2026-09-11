@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The dark treasures"
-type: "short-story"
+type: "poem"
 lang: "en-US"
 ---
 

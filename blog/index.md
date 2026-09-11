@@ -6,7 +6,6 @@ layout: post
 title: "Cabana do eremita"
 ---
 
-- [Sobre o site](/about/).
 - [Ensaios](/essays/).
 - [Contos](/short-stories/).
-- [Informações legais](/legal/).
+- [Poemas](/poems/).

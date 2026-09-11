@@ -11,7 +11,7 @@ destpath="$root/blog/_posts/"
 
 if [ "$#" -ne 2 ]
 then
-    echo "Usage: $0 \"title\" <essay|short-story>" >&2
+    echo "Usage: $0 \"title\" <essay|short-story|poem>" >&2
     exit 1
 fi
 
@@ -19,10 +19,10 @@ title="$1"
 type="$2"
 
 case "$type" in
-    essay|short-story)
+    essay|short-story|poem)
 	;;
     *)
-	echo "Error: type must be either 'essay' or 'short-story'" >&2
+	echo "Error: type must be either 'essay', 'short-story' or 'poem'" >&2
 	exit 1
 	;;
 esac
