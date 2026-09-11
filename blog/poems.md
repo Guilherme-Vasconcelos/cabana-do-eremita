@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contos
+title: Poemas
 permalink: /poems/
 ---
 
